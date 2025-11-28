@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Match 1",
+    "tip": "Over 2.5",
+    "odds": "1.78"
+  },
+  {
+    "name": "Match 2",
+    "tip": "Home Win",
+    "odds": "1.62"
+  },
+  {
+    "provider": "sportpesa",
+    "name": "Jackpot Game 1",
+    "prize": "KSh 38,000,000"
+  },
+  {
+    "provider": "betika",
+    "name": "Grand Jackpot",
+    "prize": "KSh 22,500,000"
+  }
+]
